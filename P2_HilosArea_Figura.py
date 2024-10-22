@@ -1,3 +1,5 @@
+ # algoritmo que calcule el área de figura geométrica descomponiendo en hilos para optimizar su ejecución.
+
 import threading  # Librería que permite crear y manejar hilos.
 import time  # Librería para medir el tiempo de ejecución.
 
